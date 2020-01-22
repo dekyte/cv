@@ -25,7 +25,7 @@ h2 {
 }
 
 .logo-img {
-  width: 125px;
+  width: 150px;
 }
 
 /* Navigation Bar */
@@ -80,4 +80,17 @@ h2 {
 
 .copyright {
   margin-top: 50px;
+}
+
+@media (max-width: 990px) {
+
+  .big-heading {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .title-list-items {
+    margin-left: 100px;
+  }
+
 }
