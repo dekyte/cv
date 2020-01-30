@@ -39,8 +39,9 @@ h2 {
 }
 
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.75rem;
   font-weight: 300;
+  color: #7098da;
 }
 
 .title-item {
@@ -63,9 +64,29 @@ h2 {
   font-size: 2rem;
 }
 
-#contact {
+#reviews {
   background-color: #90f2ff;
   color: #7098da;
+  padding: 2% 15% 2%;
+}
+
+.carousel-item {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.yelp-review {
+  margin:auto;
+  width: 50%;
+}
+
+.carousel-control-prev-icon {
+  width: 150%;
+}
+
+#contact {
+  background-color: #6eb6ff;
+  color: #e0fcff;
   padding: 2% 15% 2%;
 }
 
