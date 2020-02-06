@@ -80,6 +80,12 @@ h2 {
   width: 50%;
 }
 
+.card {
+  margin:auto;
+  width: 50%;
+  text-align: left;
+}
+
 .carousel-control-prev-icon {
   width: 150%;
 }
